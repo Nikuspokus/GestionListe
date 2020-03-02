@@ -1,6 +1,8 @@
 # gestion_dune_liste
 
-Ficheir test pour une gestion de liste pour le projet CEF.
+Fichier test pour une gestion de liste pour le projet CEF.
+
+Projet permettant d'apprendre l'ajout et la suppression d'élément d'une liste.
 
 ## Getting Started
 
